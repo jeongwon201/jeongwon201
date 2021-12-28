@@ -2,7 +2,7 @@
   <h1>JEONG</h1>
 </div>
 
-<div align="center">
+<div>
   <h3>Tech Stack</h3>
   <p>
     <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -15,5 +15,9 @@
     <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/JQUERY-0769AD?style=flat-square&logo=JQuery&logoColor=white"/></a>
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
     <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/MARIADB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
+  </p>
+  <h3>Tools</h3>
+  <p>
+    <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
   </p>
 </div>
