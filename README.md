@@ -15,7 +15,7 @@
     <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/JQUERY-0769AD?style=flat-square&logo=JQuery&logoColor=white"/></a>
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
     <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/MARIADB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
-    <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-#2496ED?style=flat-square&logo=Docker&logoColor=white" /></a>
+    <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" /></a>
   </p>
   <h3>Tools</h3>
   <p>
