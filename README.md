@@ -5,7 +5,7 @@
 <div>
   <h3>Tech Stack</h3>
   <p>
-    <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+    <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
     <a href="https://spring.io/projects/spring-framework" target="_blank"><img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
     <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
