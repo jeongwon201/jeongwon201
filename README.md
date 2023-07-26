@@ -66,9 +66,9 @@
   <tr>
     <td>Etc.</td>
     <td>
-      <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=F05032" />
-      <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=181717" />
-      <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=00979D" />
+      <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
     </td>
   </tr>
 </table>
