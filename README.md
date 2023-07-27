@@ -15,24 +15,23 @@ const nowgnoejeel = {
   availableForHire: true,
   otherAlias: "Backend Developer",
   technologies: {
-    language: [ "java", "python", "c", "c#" ]
+    language: [ "java", "python", "c", "c#" ],
     backend: {
       spring: [ "spring framework", "spring security", "spring boot", "spring webflux", "spring cloud" ],
-      springcloud: [ "spring cloud gateway, spring cloud config", "spring cloud bus", "spring cloud eureka" ];
+      springcloud: [ "spring cloud gateway, spring cloud config", "spring cloud bus", "spring cloud eureka" ],
       others: [ "jpa", "mybatis", "jsp", "thymeleaf" ],
     },
     devops: [ "linux", "docker", "kafka", "aws" ],
-    frontend: [ "html", "css", "javascript", "bootstrap", "react" ]
+    frontend: [ "html", "css", "javascript", "bootstrap", "react" ],
     databases: [ "mysql", "mariadb", "oracle", "mongodb" ],
     etc: [ "git", "github", "arduino" ],
   },
-  architecture: ["domain driven design", "clean architecture", "micro service architecture", "test driven development"],
+  architecture: [ "domain driven design", "clean architecture", "micro service architecture", "test driven development" ],
   experiences: [
     {
       company : "none",
       post : "I want to have a good experience at a good company !"
     }
-  ],
-  project: "See Repositories.",
+  ]
 }
 ```
