@@ -24,7 +24,8 @@ const nowgnoejeel = {
     devops: [ "linux", "docker", "kafka", "aws" ],
     frontend: [ "html", "css", "javascript", "bootstrap", "react" ],
     databases: [ "mysql", "mariadb", "oracle", "mongodb" ],
-    etc: [ "git", "github", "arduino" ],
+    tool: [ "git", "github", "maven", "gradle" ],
+    etc: [ "mvc", "ddd", "tdd", "msa" ],
   },
   architecture: [ "domain driven design", "clean architecture", "micro service architecture", "test driven development" ],
   experiences: [
