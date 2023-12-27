@@ -4,9 +4,9 @@
 
 <h3 align="left">I'm a junior developer who mainly uses Java and Spring Framework.</h3>
 <br />
-
 <a href="mailto:jeongwon201@naver.com"><img src="https://img.shields.io/badge/email-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
-<a href="https://jeongwon201.github.io/resume/" target="_blank"><img src="https://img.shields.io/badge/resume-018EF5?style=for-the-badge&logo=readme&logoColor=white"/></a>
+<a href="https://jeongwon201.notion.site/dca05916a3e948e29ebb453e0e794e17?pvs=4" target="_blank"><img src="https://img.shields.io/badge/resume-018EF5?style=for-the-badge&logo=readme&logoColor=white"/></a>
+<!-- <a href="https://jeongwon201.github.io/resume/" target="_blank"><img src="https://img.shields.io/badge/resume-018EF5?style=for-the-badge&logo=readme&logoColor=white"/></a> -->
 <br />
 <hr />
 
