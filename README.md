@@ -25,9 +25,8 @@ const nowgnoejeel = {
     frontend: [ "html", "css", "javascript", "bootstrap", "react" ],
     databases: [ "mysql", "mariadb", "oracle", "mongodb" ],
     tool: [ "git", "github", "maven", "gradle" ],
-    etc: [ "mvc", "ddd", "tdd", "msa" ],
   },
-  architecture: [ "domain driven design", "clean architecture", "micro service architecture", "test driven development" ],
+  architecture: [ "mvc", "domain driven design", "clean architecture", "micro service architecture", "test driven development" ],
   experiences: [
     {
       company : "none",
